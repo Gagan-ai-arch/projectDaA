@@ -1,4 +1,4 @@
-"# projectCoA" 
+"# projectDAA 
 Project Documentation
 
 Title: Optimized Task Scheduling using Divide and Conquer with Greedy Conflict Resolution
